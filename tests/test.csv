@@ -1,0 +1,12 @@
+local id 1, local id 2, local id 3
+abc,def,
+,def,ghi
+jkl,,
+,mno,
+,,pqr
+jkl,,pqr
+,mno,pqr
+stu,,
+stu,vxy,
+stu,z12,
+stu,,345
